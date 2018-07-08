@@ -1,7 +1,6 @@
 
 # Trading Tips from mariappa
 
-
 To all new members... please understand that trading is not a place for easy money.
 
 It needs lot of experience and and dedication to read chart and and react quickly when trade goes on opposite sides.
