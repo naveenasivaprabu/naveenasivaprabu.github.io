@@ -1,5 +1,5 @@
 
-# Trading Tips
+# Trading Tips from mariappa
 
 
 To all new members... please understand that trading is not a place for easy money.
@@ -45,5 +45,3 @@ Then only you are allowed to trade in **FNO**.
 12. Start trade with refresh mind..
 
 Points to become successful from a loss made trader.
-
-- Mariappa
