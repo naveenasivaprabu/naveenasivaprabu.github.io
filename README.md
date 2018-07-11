@@ -1,5 +1,5 @@
 
-# Trading Tips from mariappa
+# Trading Tips from Group
 
 To all new members... please understand that trading is not a place for easy money.
 
@@ -44,3 +44,14 @@ Then only you are allowed to trade in **FNO**.
 12. Start trade with refresh mind..
 
 Points to become successful from a loss made trader.
+
+## Flash Trade
+
+I don't wait for big tgt...book 5k in 10-15min it's called flash trade😂
+So u can easily get those movement in liquidity stocks...
+
+No need to hold position for many days.
+
+Holding a position sometimes become a nightmare😝..then why to hold?
+simply book n look for new trade...
+Simple
