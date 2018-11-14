@@ -58,3 +58,34 @@ No need to hold position for many days.
 Holding a position sometimes become a nightmare😝..then why to hold?
 simply book n look for new trade...
 Simple
+
+
+
+# Our trade rule is always same...no changes so far..
+
+Sometimes you may be confused with entry...at the time remember below important points.
+
+
+1.For buy trade it is good to take trade when the price break the buy entry from low.
+
+2.For sell trade it is good to take trade when the price is falling from high and breaks below the sell level.
+
+
+3.Our candles are 5min and 15min only..based on your targeted pts you decide which candle to follow (this rule only applies to whom can't decide what timeframe to use)
+
+
+4.For jolly trade u should see in chart that price is moving between any two lines...in trend.. jolly trade not allowed
+
+
+5.Dont try to trade in all moves.... restrict yourself with your own rule for trade..this rule can be ignored once you become good in selecting right trades.
+
+
+6.when u see 2 red candle closed below your buy line(after you took buy)..then you can consider that more possible to hit your buy SL...so instead of waiting for SL hit..you can book loss at 2 candle close on opposite side.
+
+7.Candle closed ABV then line for buy trade...but 2 nd candle closed near T1...in this condition ignore entry...and wait for T1 line to cross...you can take buy ABV t1(candle close not necessary)
+
+8.Only wick formation can't be considered as breakout for entry/SL...This u will learn only by experience/practice...no other short cuts😊
+
+Hope these points will help you to decide...
+
+If you have still any doubt.. go n watch the video again..(don't ask me 😂)
