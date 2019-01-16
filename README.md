@@ -89,3 +89,27 @@ Sometimes you may be confused with entry...at the time remember below important 
 Hope these points will help you to decide...
 
 If you have still any doubt.. go n watch the video again..(don't ask me 😂)
+
+
+
+# Reverse buy:
+
+Look if SL not hit and moving ABV buy levels,then place system order one pt ABV the levels...book at T1,t2 based on proper TSL.
+
+# Double shot:
+Look for reverse buy SL hit..then place 2 lot system order at given levels..book at T1 one lot.. another lot at t2.
+If going up and SL not hit ..then again short at given levels.book T1 or previous low.
+
+# Buy :
+Look for 2 greencandle close..once closed,,enter opening of 3rd candle..or wait for the price to come to buy range...then take trade.. otherwise ignore that entry.
+
+If u missed buy entry..then don't worry..place system order ABV one pt of buy T1. Book at t2 or t3
+
+# Sell:
+Vice-versa of buy
+
+Which reverse trade(SL hit) will be effective?(applicable for buy ABV n sell below only)
+When in trend..once buy activated..it has to achieve atleast t2.some cases it will not touch t2 rather will hit SL..at that time,you can consider for reverse trade.(sell 1 pt below SL).
+
+Vice versa for sell.
+
